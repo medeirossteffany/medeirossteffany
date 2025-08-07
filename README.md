@@ -29,8 +29,3 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&card_width=400&langs_count=8" alt="Top Langs" />
 </p>
-
-
-
-
-
