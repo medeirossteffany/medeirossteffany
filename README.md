@@ -25,7 +25,7 @@
 <br /><br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&rank_icon=github&show_icons=true&card_width=400&langs_count=8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&rank_icon=github&show_icons=true&card_width=200&langs_count=8" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&card_width=400&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&card_width=200&langs_count=8" alt="Top Langs" />
 </p>
