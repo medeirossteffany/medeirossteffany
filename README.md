@@ -16,8 +16,9 @@
     <img width="80%" src="https://skillicons.dev/icons?i=php,python,react,nodejs,mysql,git,azure,figma,mongo,laravel,docker,typescript,jquery,js,html,css,bootstrap"/>
   </a>
 
-  <br /><br /><br /><br />
+  <br />
+  <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&card_width=420" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&card_width=400" alt="Top Langs" />
 
 </div>
