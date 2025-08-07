@@ -15,4 +15,12 @@
 <br />
 <br />
 
+<div align="center">
+
+ <img height=400 align="center"  src="https://github-readme-stats.vercel.app/api?username=camfeitosa&bg_color=0,000000,130F40&hide_border=true&text_color=D3D3D3&show_icons=true&title_color=7A7ADB&icon_color=D3D3D&include_all_commits=true&count_private=true&rank_icon=github" />
+
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&text_color=D3D3D3&title_color=7A7ADB&bg_color=130F40&hide_border=true"/> 
+
+</div>
+
 
