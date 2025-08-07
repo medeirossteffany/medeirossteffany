@@ -12,11 +12,9 @@
   <img width="80%" src="https://skillicons.dev/icons?i=php,python,react,nodejs,mysql,git,azure,figma,mongo,laravel,docker,typescript,jquery,js,html,css"/>
 </a>
 
-<div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
 
-</div>
+
 
 
 
