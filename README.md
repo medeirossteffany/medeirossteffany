@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://skillicons.dev">
-  <img width="80%" src="https://skillicons.dev/icons?i=php,python,react,nodejs,mysql,git,azure,figma,mongo,laravel,docker,typescript,jquery,js,html,css"/>
+  <img width="80%" src="https://skillicons.dev/icons?i=php,python,react,nodejs,mysql,git,azure,figma,mongo,laravel,docker,typescript,jquery,js,html,css,bootstrap"/>
 </a>
 
 <br />
